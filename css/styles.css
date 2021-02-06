@@ -150,3 +150,14 @@ a:hover{
     color: #eaf6f6;
 }
 
+
+@media (max-width : 626px){
+    .Mountain{
+        position: relative;
+        width: 350px;
+        height: 220px;
+    }
+    .Second-cloud{
+        bottom: 30%;
+    }
+}
